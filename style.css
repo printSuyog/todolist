@@ -1,0 +1,10 @@
+body{
+    background-color: #a8e6cf;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.heading{
+    font-weight: bold;
+    color: #333333;
+}
